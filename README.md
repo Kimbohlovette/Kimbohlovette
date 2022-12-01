@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on all open source python projects
 - 📫 You can reach me on
   - [Linkedin](https://www.linkedin.com/in/kimboh-lovette-b2993212a/)
-  - [Twitter](twitter.com/kimbohlovette)
-  - [Github](github.com/Kimbohlovette)
+  - [Twitter](https://twitter.com/KimbohLovette)
+  - [Github](https://github.com/Kimbohlovette)
   - [Whatsapp](https://wa.link/nmw988)
 
 <!---
