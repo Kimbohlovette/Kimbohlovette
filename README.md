@@ -7,4 +7,4 @@
   - [Linkedin](https://www.linkedin.com/in/kimboh-lovette-b2993212a/)
   - [Twitter](https://twitter.com/KimbohLovette)
   - [Github](https://github.com/Kimbohlovette)
-  - [Whatsapp](https://wa.link/nmw988)
+  - [Whatsapp](https://wa.link/nmw988
