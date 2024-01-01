@@ -1,10 +1,9 @@
  **👋 Hi, I’m Kimboh Lovette**
 
-- 👀 I’m passionate about modern software development with Javascript, Angular, ReactJS, React Native, NextJS, NodeJS, Flask,   PostgreSQL, MySQL.
+- 👀 I’m passionate about full stack application development. 
 - 🌱 I’m currently learning AWS server deployment & containerization
-- 💞️ I’m looking to collaborate on all open source Golang projects
+- 💞️ I contribute to opensource prjects in Typescript, Golang & Python.
 - 📫 You can reach me on
   - [Linkedin](https://www.linkedin.com/in/kimbohlovette)
   - [Twitter](https://twitter.com/KimbohLovette)
-  - [Github](https://github.com/Kimbohlovette)
   - [Whatsapp](https://wa.link/nmw988)
