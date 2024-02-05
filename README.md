@@ -1,8 +1,8 @@
  **👋 Hi, I’m Kimboh Lovette**
 
-- 👀 I’m passionate about full stack application development. 
+- 👀 I am a Expert Full Stack Developer. 
 - 🌱 I’m currently learning AWS server deployment & containerization
-- 💞️ I contribute to opensource prjects in Typescript, Golang & Python.
+- 💞️ I also contribute to Typescript| React | React Native | Node/Express | GolangPython | Docker
 - 📫 You can reach me on
   - [Linkedin](https://www.linkedin.com/in/kimbohlovette)
   - [Twitter](https://twitter.com/KimbohLovette)
