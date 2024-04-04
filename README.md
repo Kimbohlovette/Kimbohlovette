@@ -1,6 +1,6 @@
  **👋 Hi, I’m Kimboh Lovette**
 
-- 👀 I am a Expert Full Stack Developer. 
+- 👀 I'm an Expert Full Stack Developer. 
 - 🌱 I’m currently contributing to Open Telemetry Project
 - 💞️ I also contribute to Typescript | React | React Native | Node/Express | GolangPython | Docker opensource projects
 - 📫 You can reach me on
